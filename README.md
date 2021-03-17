@@ -2,7 +2,7 @@
 
 iziexcel is a simplified package for created basic excel files using [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
 
-####Use [excelize](https://github.com/360EntSecGroup-Skylar/excelize) for adding chart, picture and detailed usage.
+#### Use [excelize](https://github.com/360EntSecGroup-Skylar/excelize) for adding chart, picture and detailed usage.
 
 ```
 headers := []string{"Cell A1", "Cell B1", "Cell C1"}
